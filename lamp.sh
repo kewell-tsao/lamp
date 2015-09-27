@@ -722,7 +722,7 @@ function install_php(){
         --with-ldap-sasl \
         --with-mcrypt \
         --with-openssl \
-        --without-pear \
+        --with-pear \
         --with-pdo-mysql \
         --with-png-dir \
         --with-readline \
